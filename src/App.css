@@ -1,0 +1,23 @@
+/*.App {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  color: #470000;
+  font-weight: bold;
+  background-color: #b36d64;
+  /*background-image: url("https://bestanimations.com/media/pizza/1929950421pizza-slice-cheese-close-up-gif.gif"),
+    url("https://25.media.tumblr.com/8beb2266fabf28a47ebcbdc29f2340da/tumblr_mfbpc2DAs31rm0lydo1_250.gif");
+  
+  background-image: url("./Pizza.jpg");
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}*/
+/*body {
+  padding: 0;
+  margin: 0;
+}*/
+.App {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
